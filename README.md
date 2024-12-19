@@ -1,2 +1,2 @@
 # Aradhana_Repository
-Assignment_QA
+Tip Top Assignment using Playwright Automation tool.
